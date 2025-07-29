@@ -1,0 +1,17 @@
+{
+    "name": "Example",
+    "version": "1.0.0",
+    "description": "A simple JSON example.",
+    "details": {
+        "author": "AI Assistant",
+        "license": "MIT"
+    },
+    "data": [
+        1,
+        2,
+        3,
+        {
+            "nested_key": "nested_value"
+        }
+    ]
+}
